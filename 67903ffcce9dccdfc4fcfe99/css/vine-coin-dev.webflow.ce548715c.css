@@ -2223,7 +2223,7 @@ textarea.w-input, textarea.w-select {
   flex-flow: column;
   justify-content: flex-start;
   align-items: center;
-  padding: 100px;
+  /* padding: 100px; */
   display: flex;
 }
 
